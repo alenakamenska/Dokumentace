@@ -1,12 +1,25 @@
-# Úvod
+# Dokumentace aplikace Zahradnictví PDO
 
-- Uživatelské rozhraní webové aplikace je rozděleno na 2 části: uživatelská část a administrační část pro podniky. Toto rozdělení vychází ze 2 rolí: podnik (pro uživatele, kteří chtějí přidávat podnik/y a následný sortiment) a běžný uživatel (hledá určitou rostlinu nebo se chce podívat co podnik nabízí). 
-- V horní části aplikace se nachází menu. V levé části jsou odkazy pro domovskou stránku, podniky, sortiment a rady. V pravé části jsou zobrazeny ikonky pro přihlášení a registraci, které se po přihlášení změní v ikonky pro odhlášení a zobrazení informací o účtu.
+Vítejte v oficiální dokumentaci webové aplikace pro zahradnictví a zahrádkáře, která vznikla v rámci mé bakalářské práce
 
+---
 
-## Project layout
+## Rychlý rozcestník
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Pro zákazníky
+Základní informace o tom, jak vyhledávat a využívat data v aplikaci
+
+* **[Katalog podniků](uzivatele.md#podniky)** – Zahradnictví
+* **[Katalog produktů](uzivatele.md#sortiment)** – Sortiment
+* **[Rady a tipy](uzivatele.md#rady)** – Prohlížení a filtrování odborných rad
+* **[Návod: Jak najít sortiment](navody.md#sortiment)** – Krok za krokem k nabídce podniku
+
+### Pro podniky (Zahradníky)
+Návody pro správu firemního profilu a nabídky produktů
+
+* **[Přidání podniku](podniky.md#pridat-podnik)** – Přidání podniku
+* **[Správa produktů](podniky.md#pridat-produkt)** – vložení zboží do nabídky
+
+### Správa účtu
+* **[Registrace a přihlášení](obrazovky.md#registrace)** – Vytvoření účtu a role v systému
+* **[Profil uživatele](obrazovky.md#sprava-uctu)** – Nastavení osobních údajů a správa vlastních rad
