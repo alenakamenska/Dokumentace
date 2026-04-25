@@ -1,0 +1,64 @@
+site_name: PDO dokumentace
+site_url: https://PDO-dokumentace.cz
+
+theme:
+  name: material
+  language: cs
+  features:
+    - navigation.expand
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Přepnout na tmavý režim
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Přepnout na světlý režim
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - toc:
+      permalink: true
+
+nav:
+- Úvod:
+  - Základní popis aplikace: 
+    - Role: obrazovky/#role
+    - Podniky: obrazovky/#podniky
+    - Produkty: obrazovky/#produkty
+    - Rady: obrazovky/#rady
+  - Registrace: obrazovky/#registrace
+  - Přihlášení přes Google: obrazovky/#google
+  - Přihlášení: obrazovky/#prihlaseni
+  - Zapomenuté heslo: obrazovky/#zapomenute-heslo
+  - Správa účtu: obrazovky/#sprava-uctu
+- Pro zákazníky:
+  - Podniky: 
+    - Katalog podniků: uzivatele/#podniky
+    - Deatil podniku: uzivatele/#detail-podniku
+  - Produkty: 
+    - katalog produktů: uzivatele/#sortiment
+    - Detail produktu: uzivatele/#sortiment-detail
+  - Rady: 
+    - Katalog rad: uzivatele/#rady
+    - Detail rady: uzivatele/#detail-rady
+    - Přidat radu: uzivatele/#pridat-radu
+- Pro podniky:
+  - Přidání podniku: podniky/#pridat-podnik
+  - Správa podniku:
+    - Informace o podniku: podniky/#upravit-podnik
+    - Přidat produkt: podniky/#pridat-produkt
+    - Produkty v podniku: podniky/#produkty
+- Návody:
+  - Přidání podniku: navody/#pridat-podnik
+  - Produkty daného podniku: navody/#sortiment
