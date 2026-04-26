@@ -22,8 +22,11 @@ Obě stránky využívají stejnou strukturu rozvržení:
 
 ### Ověření v systému ARES
 Na kartě podniku se nachází ikonka, která indikuje důvěryhodnost:
-* **Zelené zaškrtnutí:** Podnik je zaregistrovaný v systému ARES a jeho existence je ověřena.
-* **Vykřičník:** Podnik nebyl ověřen přes IČO (údaje nemusí být kompletní nebo oficiální).
+
+* **"Fajfka":** Podnik je zaregistrovaný v systému ARES a jeho existence je ověřena
+* **Vykřičník:** Podnik nebyl ověřen přes IČO (údaje nemusí být kompletní nebo oficiální)
+
+    ![Podnik](images/podnik-fajfka.png)
 
 ---
 
@@ -67,7 +70,9 @@ Poslední katalogovou stránkou je přehled odborných rad od všech uživatelů
 * **Čtení rad:** Pro přečtení celé rady klikněte na tlačítko **Více** v kartě rady.
 
 ### Přidání nové rady {: #pridat-radu }
-Pokud je uživatel přihlášen, zobrazí se mu speciální karta pro **přidání nové rady**
+Pokud je uživatel přihlášen, zobrazí se mu speciální karta pro **přidání nové rady** na stránce s katalogem rad
+
+![Přidat radu](images/nova-rada.png)
 
 1. Po kliknutí je uživatel přesměrován na formulář
 

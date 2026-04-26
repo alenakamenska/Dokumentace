@@ -31,6 +31,10 @@ Při vyplňování postupujte podle těchto bodů:
 ![Formulář pro přidání podniku](images/pridani-podniku.png)
 
 1. **Základní údaje:** Vyplňte **IČO**. V případě zadání správného a existujícího IČO formulář sám předvyplní **Název firmy** a kompletní adresu (**Město**, **Ulice**, **Číslo popisné**)
+
+    !!! warning "Pozor"
+        V případě, že nezadáte IČO, bude podnik označen jako neověřený
+
 2. **Popis firmy:** Zde můžete stručně představit svůj podnik, uvést, na co se specializujete nebo jaké služby nabízíte
 3. **Otevírací hodiny:**
     * Pro každý den můžete nastavit časové rozmezí **od–do**
@@ -44,7 +48,7 @@ Při vyplňování postupujte podle těchto bodů:
 
 ## Produkty daného podniku {: #sortiment }
 
-Tento postup slouží zákazníkům k rychlému nalezení aktuální nabídky konkrétního zahradnictví.
+Tento postup slouží zákazníkům k rychlému nalezení aktuální nabídky konkrétního podniku
 
 ### Postup k nalezení sortimentu
 
