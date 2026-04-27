@@ -32,14 +32,14 @@ Na kartě podniku se nachází ikonka, která indikuje důvěryhodnost:
 
 ## Detail podniku {: #detail-podniku }
 
-Na tuto stránku se dostanete kliknutím na tlačítko **Více** v kartě daného podniku.
+Na tuto stránku se dostanete kliknutím na tlačítko **Více** v kartě daného podniku
 
-1.  **Hlavička:** Zobrazuje profilový obrázek, popis podniku a kontaktní údaje na majitele.
-2.  **Prostřední část:** Obsahuje otevírací hodiny a **interaktivní mapu** s přesnou adresou.
-3.  **Nabídka (Sortiment):** V dolní části jsou zobrazeny záložky s kategoriemi produktů. 
-    * Po rozkliknutí kategorie se zobrazí všechny produkty daného podniku.
-    * K dispozici je pole pro vyhledání konkrétního produktu v rámci podniku.
-    * Pro detail produktu stačí kliknout na tlačítko **Více** v kartě produktu.
+1.  **Horní část:** Zobrazuje profilový obrázek, popis podniku a kontaktní údaje na majitele
+2.  **Prostřední část:** Obsahuje otevírací hodiny a **interaktivní mapu** s přesnou adresou
+3.  **Sortiment:** V dolní části jsou zobrazeny záložky s kategoriemi produktů
+    * Po rozkliknutí kategorie se zobrazí všechny produkty daného podniku
+    * K dispozici je pole pro vyhledání konkrétního produktu v rámci podniku
+    * Pro detail produktu stačí kliknout na tlačítko **Více** v kartě produktu
 
 ![Podnik](images/nabidka.png)
 
@@ -64,10 +64,10 @@ Stránka obsahuje podrobné informace o vybrané položce:
 
 ## Katalog rad {: #rady }
 
-Poslední katalogovou stránkou je přehled odborných rad od všech uživatelů.
+Poslední katalogovou stránkou je přehled odborných rad od všech uživatelů
 
-* **Filtrace a hledání:** V horní části nad radami lze filtrovat dle kategorií nebo vyhledávat textem.
-* **Čtení rad:** Pro přečtení celé rady klikněte na tlačítko **Více** v kartě rady.
+* **Filtrace a hledání:** V horní části nad radami lze filtrovat dle kategorií nebo vyhledávat textem
+* **Čtení rad:** Pro přečtení celé rady klikněte na tlačítko **Více** v kartě rady
 
 ### Přidání nové rady {: #pridat-radu }
 Pokud je uživatel přihlášen, zobrazí se mu speciální karta pro **přidání nové rady** na stránce s katalogem rad
